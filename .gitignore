@@ -1,0 +1,6 @@
+cpp/lab2
+*.o
+*.d
+*.data
+*.data.tmp
+.DS_Store
